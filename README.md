@@ -41,7 +41,7 @@ this project is to make a password generator that askes a series of recuirements
 https://github.com/193G/module-03-challenge
 
 link to page 
-
+https://github.com/193G/module-03-challenge/settings/pages
 
 ## contact me on github  
 
